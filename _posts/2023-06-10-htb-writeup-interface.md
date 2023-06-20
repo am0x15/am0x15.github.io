@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Interface - Hack The Box
-date: 2023-06-10
+date: 2023-06-19
 classes: wide
 header:
   teaser: /assets/images/htb-interface/Interface.png
